@@ -7,7 +7,7 @@
 To use this module, you will need [cartridge-cli](https://github.com/cartridge/cartridge-cli) installed and have a cartridge project setup.
 
 ```shell
-npm install cartridge-sass --save-dev
+npm install cartridge-sass-legacy --save-dev
 ```
 
 This module adds the following to a project:
