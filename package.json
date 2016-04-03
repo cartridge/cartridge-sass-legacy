@@ -1,7 +1,7 @@
 {
-  "name": "cartridge-sass",
+  "name": "cartridge-sass-legacy",
   "version": "0.2.0",
-  "description": "Sass module for the cartridge project",
+  "description": "Windows friendly Sass expansion pack for cartridge",
   "keywords": [
     "gulp",
     "dependency",
@@ -12,16 +12,16 @@
     "libsass",
     "postcss"
   ],
-  "homepage": "https://github.com/cartridge/cartridge-sass",
+  "homepage": "https://github.com/cartridge/cartridge-sass-legacy",
   "bugs": {
-    "url": "https://github.com/cartridge/cartridge-sass/issues"
+    "url": "https://github.com/cartridge/cartridge-sass-legacy/issues"
   },
   "license": "MIT",
   "author": "Code ComputerLove <npm@codecomputerlove.co.uk>",
   "main": "task.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cartridge/cartridge-sass.git"
+    "url": "https://github.com/cartridge/cartridge-sass-legacy.git"
   },
   "scripts": {
     "postinstall": "node scripts/postinstall.js",
