@@ -1,4 +1,4 @@
-# Cartridge Sass Legacy[![Build Status](https://travis-ci.org/cartridge/cartridge-sass.svg?branch=master)](https://travis-ci.org/cartridge/cartridge-sass)
+# Cartridge Sass Legacy [![Build Status](https://travis-ci.org/cartridge/cartridge-sass-legacy.svg?branch=master)](https://travis-ci.org/cartridge/cartridge-sass-legacy)
 
 **It is recommended to use this instead of [cartridge-sass](https://github.com/cartridge/cartridge-sass) if you require windows compatibility or are other wise having issues running the main Sass module**
 
