@@ -1,6 +1,8 @@
-# Cartridge Sass [![Build Status](https://travis-ci.org/cartridge/cartridge-sass.svg?branch=master)](https://travis-ci.org/cartridge/cartridge-sass)
+# Cartridge Sass Legacy[![Build Status](https://travis-ci.org/cartridge/cartridge-sass.svg?branch=master)](https://travis-ci.org/cartridge/cartridge-sass)
 
-> Sass expansion pack for [Cartridge](https://github.com/cartridge/cartridge)
+**It is recommended to use this instead of [cartridge-sass](https://github.com/cartridge/cartridge-sass) if you require windows compatibility or are other wise having issues running the main Sass module**
+
+> Sass expansion pack for [Cartridge](https://github.com/cartridge/cartridge). This module uses an older version of gulp-sass that works on windows.
 
 To use this module, you will need [cartridge-cli](https://github.com/cartridge/cartridge-cli) installed and have a cartridge project setup.
 
