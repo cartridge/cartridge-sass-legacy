@@ -1,13 +1,11 @@
 {
   "name": "cartridge-sass-legacy",
   "version": "0.2.1",
-  "description": "Windows friendly Sass expansion pack for cartridge",
+  "description": "DEPRECATED: Windows friendly Sass expansion pack for cartridge",
   "keywords": [
     "gulp",
     "dependency",
     "cartridge",
-    "cartridge-module",
-    "cartridge-task",
     "sass",
     "libsass",
     "postcss"
