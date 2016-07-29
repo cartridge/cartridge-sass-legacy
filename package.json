@@ -1,6 +1,6 @@
 {
   "name": "cartridge-sass-legacy",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "DEPRECATED: Windows friendly Sass expansion pack for cartridge",
   "keywords": [
     "gulp",
